@@ -34,3 +34,10 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+
+To Reference
+----
+- Database CRUD
+- Controlling RecyclerView's Event
+- CRUD Screen flows
